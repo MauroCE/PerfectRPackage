@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3967819147",
+    "hash" : "0",
     "id" : "CB59D606",
     "lastKnownWriteTime" : 1572719750,
     "last_content_update" : 1572719750582,
     "path" : "~/Documents/University/PerfectRPackage/website.Rmd",
     "project_path" : "website.Rmd",
     "properties" : {
-        "cursorPosition" : "1,0",
-        "scrollLine" : "0",
+        "cursorPosition" : "26,14",
+        "scrollLine" : "8",
         "tempName" : "Untitled1"
     },
     "read_only" : false,
