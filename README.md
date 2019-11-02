@@ -7,6 +7,9 @@
 
 <!-- badges: end -->
 
+[![Build
+Status](https://travis-ci.com/MauroCE/PerfectRPackage.svg?branch=master)](https://travis-ci.com/MauroCE/PerfectRPackage)
+
 The goal of PerfectRPackage is to …
 
 ## Installation
