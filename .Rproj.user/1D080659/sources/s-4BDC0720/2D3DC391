@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572716549100.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2D3DC391",
+    "lastKnownWriteTime" : 1572716719,
+    "last_content_update" : 1572716719874,
+    "path" : "~/Documents/University/PerfectRPackage/tests/testthat/test-hello.R",
+    "project_path" : "tests/testthat/test-hello.R",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

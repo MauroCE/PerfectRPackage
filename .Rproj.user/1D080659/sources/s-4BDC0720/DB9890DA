@@ -7,12 +7,12 @@
     "folds" : "",
     "hash" : "0",
     "id" : "DB9890DA",
-    "lastKnownWriteTime" : 1572712627,
-    "last_content_update" : 1572712627,
+    "lastKnownWriteTime" : 1572716209,
+    "last_content_update" : 1572716209265,
     "path" : "~/Documents/University/PerfectRPackage/R/hello.R",
     "project_path" : "R/hello.R",
     "properties" : {
-        "cursorPosition" : "18,0",
+        "cursorPosition" : "22,8",
         "scrollLine" : "0"
     },
     "read_only" : false,
