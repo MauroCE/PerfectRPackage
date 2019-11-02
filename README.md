@@ -9,6 +9,7 @@
 
 [![Build
 Status](https://travis-ci.com/MauroCE/PerfectRPackage.svg?branch=master)](https://travis-ci.com/MauroCE/PerfectRPackage)
+[![codecov](https://codecov.io/gh/MauroCE/PerfectRPackage/branch/master/graph/badge.svg)](https://codecov.io/gh/MauroCE/PerfectRPackage)
 
 The goal of PerfectRPackage is to …
 
